@@ -66,7 +66,7 @@ extension=pdo_mysql
 ### 1. Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio> biblioteca
+git clone https://github.com/rafaelgust/biblioteca.git
 cd biblioteca
 ```
 
